@@ -1,0 +1,5 @@
+git show commit_id;   // show the total code base for temporarily at terminal.
+git checkout commit_id   // show the total code base for temporarily at vscode files. how ? - It will create a new temporary branch and show all the source code there.
+git show commit_id:file_Name;    // show data of a particular file at a specific commit_id.
+
+

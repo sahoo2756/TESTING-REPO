@@ -1,0 +1,6 @@
+git checkout <branch_name>   // helps to switch branch
+git checkout -b <branch_name>   // helps to switch branch if "branch is not exit then it will create a new branch"
+
+* git checkout <comiit_id>  // it will create a temporary branch having the data till provided/custom commit comiit_id
+* git checkout -- file_Name   // it will delete all the modified data till the last commit
+
